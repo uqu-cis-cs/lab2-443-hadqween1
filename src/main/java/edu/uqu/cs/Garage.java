@@ -1,4 +1,4 @@
-package edu.uqu.cs;
+package edu.uqu.cs; 
 /*
  * Lab 2 
  * CS 1312
