@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 public class Car{
 
+
     /************ Part 1 **************/
     /**
      * Decalre all instance variables 
