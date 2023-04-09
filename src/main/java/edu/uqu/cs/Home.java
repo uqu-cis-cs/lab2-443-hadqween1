@@ -8,7 +8,6 @@ package edu.uqu.cs;
 * Make sure to complete and submit your lab
 */
 import java.util.Scanner;
-
 public class Home{
  public static void main(String [] args){
 
